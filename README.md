@@ -1,6 +1,20 @@
-# 💫About Me :
-WELCOME TO MY PAGE 👋👋👋
-My name is Hoang Nguyen. I am an Dev in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.
+### WELCOME TO MY PAGE 👋👋👋
+My name is Hoang Nguyen. I am an Dev in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
+
+🌱 I'm continuously learning and exploring new technologies to enhance my skills and knowledge.
+
+🔭 Currently, I'm working on various projects to further develop my expertise in software development.
+
+💼 My skills include:
+- **Programming Languages**: Python , C++ , Java 
+- **Web Development**: HTML, CSS, JavaScript
+- **Tools & Technologies**: Git, Docker, Linux
+- **Data Analysis**: Pandas, NumPy, Matplotlib
+- **Database Management**: SQL, SQLite
+- **Other Skills**: Microsoft Word, Excel (proficient), PowerPoint, LaTeX
+
+📫 You can reach me via:
+- Email: huyhoangak4@gmail.com
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguyexnhuyhoang/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hoang-nguyexn/) 
